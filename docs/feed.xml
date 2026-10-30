@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>審判天下｜有聲書</title>
+    <link>https://ntcloudy.github.io/judgment-podcast/</link>
+    <atom:link href="https://ntcloudy.github.io/judgment-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-tw</language>
+    <description>《審判天下》三部曲有聲書。他看得見每個人身上的帳——黑字是做過的惡，灰字是已經決定、還沒發生的惡。法律還不了的帳，他來還。第一季《還帳》、第二季《審判》、第三季《秤》：從一個人的還帳，到一座島的審判。※含寫實暴力與死亡描寫，純屬虛構。</description>
+    <itunes:author>NTCloudy</itunes:author>
+    <itunes:owner><itunes:name>NTCloudy</itunes:name><itunes:email>robinhood126936@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://ntcloudy.github.io/judgment-podcast/img/cover.jpg"/>
+    <itunes:category text="Fiction"><itunes:category text="Science Fiction"/></itunes:category>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+
+  </channel>
+</rss>
